@@ -6,9 +6,6 @@
 
 
 
-https://discord.com/users/866298220359057428
-
-
 
 <!---
 AdriCode/AdriCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
