@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adri</h1>
 <h3 align="center">Im am a very young developer from spain</h3>
+<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1031618167312752680/1049278627822436392/gatetetetetetete.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adricode" alt="adricode" /></a> </p>
 
